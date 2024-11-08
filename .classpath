@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="Sources_DP_Command"/>
+	<classpathentry kind="src" path="2324_DP_Atelier1"/>
+	<classpathentry kind="src" path="23_24_DP_Atelier2"/>
+	<classpathentry kind="src" path="23_24_DP_Atelier3"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
